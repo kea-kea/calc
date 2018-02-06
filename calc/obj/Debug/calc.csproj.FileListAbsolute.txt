@@ -1,0 +1,9 @@
+D:\GitRepositories\Calc\calc\calc\bin\Debug\calc.exe.config
+D:\GitRepositories\Calc\calc\calc\bin\Debug\calc.exe
+D:\GitRepositories\Calc\calc\calc\bin\Debug\calc.pdb
+D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.Properties.Resources.resources
+D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.exe
+D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.pdb
