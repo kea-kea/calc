@@ -7,3 +7,4 @@ D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
 D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
 D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.exe
 D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.pdb
+D:\GitRepositories\Calc\calc\calc\obj\Debug\calc.Form1.resources
